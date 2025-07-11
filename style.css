@@ -1,10 +1,10 @@
 body{
     align-items: center;
-    background-color: #B5CFE3;
+    background-color:  #ffd88e;
     color: hsl(0, 0%, 20%);
 }
 div{
-    background-color: #ffaa34;
+    background-color:  hsl(39, 100%, 59%);
     margin:  auto;
     text-align: center;
     width:480px;

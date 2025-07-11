@@ -1,4 +1,30 @@
 body{
-    background-color: #b4bd74;
-    margin: 0 auto;
+    align-items: center;
+    background-color: #B5CFE3;
+    color: hsl(0, 0%, 20%);
+}
+div{
+    background-color: #ffaa34;
+    margin:  auto;
+    text-align: center;
+    width:480px;
+    height: 70vh;
+    padding:56px 0 ;
+    margin: 32px auto;
+    border-radius: 2%;
+    box-shadow: #7c92a3 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:80px;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0;
+    font-size:xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    background-color: aliceblue;
+    margin-top: 16px;
 }
